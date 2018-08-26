@@ -1,0 +1,18 @@
+1.初始化项目
+        1.初始化项目描述文件   npm  init -y
+        2.创建public文件夹，放静态资源
+        3.闯进views文件夹，放模板页面
+
+    2.建立文件的主文件app.js
+    3.下载express框架 npm install express --save
+    4.用express创建服务器
+    5.初始化本地仓库
+        1.
+
+    6.设计路由 规定用户访问什么请求路径，服务器响应什么内容
+        1.将public中的静html文件
+        2.模板引擎
+
+2.创建前后端主路由 express.Router()
+
+3.数据库配置
